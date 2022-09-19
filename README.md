@@ -1,7 +1,9 @@
 
-<h3 align="center">Exemplo teste executado para demonstrar alguma aplicação em java, projeto antigo não funciona corretamente. Foi utilizado java, o Front-End foi feito no Netbeans, e conexão com o banco de dados.</h3>
+<h3 align="center"><p>Exemplo teste executado para demonstrar alguma aplicação em java, projeto antigo não funciona corretamente.</p> <p>Foi utilizado java, o Front-End foi feito no Netbeans, e conexão com o banco de dados.</p></h3>
 
-![alt text](https://github.com/LucasCrossDimitri/ProjetoAluguelFilmes/blob/main/ProjetoAluguelFilmes.png?raw=true)
+<p align="center">
+  <img src="https://github.com/LucasCrossDimitri/ProjetoAluguelFilmes/blob/main/ProjetoAluguelFilmes.png?raw=truee" />
+</p>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lucas-patrick-casara-5b0153182/](https://www.linkedin.com/in/lucas-patrick-casara-5b0153182/)
 
