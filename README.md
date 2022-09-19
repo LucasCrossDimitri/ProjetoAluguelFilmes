@@ -1,5 +1,5 @@
 
-<h3 align="center"><p>Exemplo teste executado para demonstrar alguma aplicação em java, projeto antigo não funciona corretamente.</p> <p>Foi utilizado java, o Front-End foi feito no Netbeans, e conexão com o banco de dados.</p></h3>
+<h3 align="center"><p>Exemplo teste executado para demonstrar alguma aplicação em java, projeto antigo não tenho mais o banco para a conexão.</p> <p>Foi utilizado java, o Front-End foi feito no Netbeans, e conexão com o banco de dados.</p></h3>
 
 <p align="center">
   <img src="https://github.com/LucasCrossDimitri/ProjetoAluguelFilmes/blob/main/ProjetoAluguelFilmes.png?raw=truee" />
